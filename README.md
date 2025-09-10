@@ -103,6 +103,6 @@ minikube status
 * [Kubernetes Official Documentation](https://kubernetes.io/docs/home/)
 * [Minikube Official Documentation](https://minikube.sigs.k8s.io/docs/)
 
-```
+
 
 

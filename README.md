@@ -4,6 +4,9 @@ This repository provides a **step-by-step guide** to install and set up **kubect
 
 ---
 
+## 📌 Architecture Diagram
+<img width="1024" height="683" alt="minikube-architecture" src="https://github.com/user-attachments/assets/5686fdd0-b338-4a81-9414-b295a8e7a464" />
+
 ## 🔗 Useful Links
 
 - **Install and Set Up kubectl on Linux**  
